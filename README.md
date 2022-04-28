@@ -24,10 +24,8 @@ I am a web developer, based in Cimahi, West Java, Indonesia. <br> My hobby is li
 ![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/VSC-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
-<details>
-  <summary>:zap: My GitHub Stats</summary>
 
-<img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riyanada&count_private=true&show_icons=true&theme=synthwave">
-<img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanada&layout=compact&theme=synthwave">
-</details>
-
+<p>
+  <img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riyanada&count_private=true&show_icons=true&theme=synthwave">
+  <img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanada&layout=compact&theme=synthwave">
+</p>
