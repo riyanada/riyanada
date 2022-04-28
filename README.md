@@ -27,7 +27,7 @@ I am a web developer, based in Cimahi, West Java, Indonesia. <br> My hobby is li
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-<img align="left" alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riyanada&count_private=true&show_icons=true&theme=synthwave">
-<img align="left" alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanada&layout=compact&theme=synthwave">
+<img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riyanada&count_private=true&show_icons=true&theme=synthwave">
+<img alt="riyanada's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanada&layout=compact&theme=synthwave">
 </details>
 
