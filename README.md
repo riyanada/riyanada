@@ -6,7 +6,7 @@ I am a web developer, based in Cimahi, West Java, Indonesia. <br> My hobby is li
 <br>
 🌱 I’m currently learning Cloud Computing (GCP)
 <br>
-:construction_worker: I am also a freelancer, working remotely. My Portfolio [online]([https://](https://s.id/port-riyan))
+:construction_worker: I am also a freelancer, working remotely. My Portfolio [online](https://s.id/port-riyan)
 <br><br>
 ### Technologies & Tools :wrench:
 
